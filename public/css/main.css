@@ -1,0 +1,106 @@
+body {
+    background-color: #ffcc00;
+}
+.navbar {
+    background-color: #000000;
+}
+.navbar-brand {
+    color: #ffcc00 !important;
+}
+.nav-link {
+    color: #ffffff !important;
+}
+.header {
+    background-color: #ffcc00;
+    color: #000000;
+    padding: 50px 0;
+    text-align: center;
+}
+.booking-form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Footer */
+.footer-top{
+    background-color: #A90011;
+}
+#footer{
+    background-color: #9C0800;
+}
+.develope-by{
+    padding: 1rem;
+    text-align: center;
+    font-size: 17px;
+    color: #efefef;
+}
+.wrapper-last-footer{
+    padding: 1rem;
+}
+.wrapper-col-1 h1{
+    font-weight: 900;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #efefef;
+}
+.wrapper-col-1 p{
+    width: 90%;
+    font-size: 14px;
+    color: #efefef;
+}
+.wrapper-icon img{
+    width: 25px;
+    margin-right: 1rem;
+}
+.wrapper-col-2{
+    display: flex;
+    flex-direction: column;
+    color: #efefef;
+}
+.wrapper-col-2 h1{
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #efefef;
+}
+.wrapper-col-2 a{
+    color: #efefef;
+    font-size: 16px;
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+}
+.wrapper-col-3{
+    display: flex;
+    flex-direction: column;
+}
+.wrapper-col-3 h1{
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #efefef;
+}
+.wrapper-col-3 a{
+    color: #efefef;
+    font-size: 16px;
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+}
+.wrapper-col-4{
+    display: flex;
+    flex-direction: column;
+}
+.wrapper-col-4 h1{
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #efefef;
+}
+.wrapper-col-4 a{
+    color: #efefef;
+    font-size: 16px;
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+}
+.wrapper-last-footer{
+    display: flex;
+    justify-content: space-between;
+}
+/* end footer */
